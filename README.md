@@ -4,7 +4,4 @@
 
 Integrantes do Projeto 
 
-Othon Medeiros
-Lucas dos Santos Xavier
-Gabrielle Zanellato Santos
-Rodrigo Vicente da Silva
+Othon Medeiros | Lucas dos Santos Xavier | Gabrielle Zanellato Santos | Rodrigo Vicente da Silva
