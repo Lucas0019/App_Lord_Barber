@@ -1,6 +1,6 @@
 # Lord_Barber-master
  
-# App desenvolvido no Android Studio para diciplina de Projeto integrado 
+App desenvolvido no Android Studio para diciplina de Projeto integrado 
 
 Integrantes do Projeto 
 
